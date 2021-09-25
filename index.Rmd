@@ -1,0 +1,74 @@
+---
+title: 'Montana ASA Chapter Annual Meeting'
+output:
+  html_document:
+    theme: cerulean
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+    css: styles.css
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
+
+library(RColorBrewer)
+library(tidyverse)
+
+pal <- brewer.pal(4, 'Pastel1')
+```
+
+The 2021 annual meeting of the Montana ASA Chapter will be held virtually on **Friday, October 8, 2021** 9:45am-4:30pm. Members and non-members of the Chapter are welcome to attend!
+
+# Schedule
+
+|   |   |
+|---|---|
+| 9:45-10:00am    | Welcome   |
+| 10:00am-2:30pm | Short course |
+|   | Lunch break around noon |
+| 2:30-2:45pm     | Break     |
+| 2:45-3:30pm     | Invited talk by Dr. Shinjini Nandi   |
+| 3:30-4:30pm     | Business meeting   |
+
+# Short Course Information
+
+We are excited to offer a Fall 2021 Council of Chapters Traveling Course for our annual meeting this year. Drs. Douglas Gunzler, Adam Perzynski, and Adam Carle will be offering the course _Introduction to Structural Equation Modeling with Health-Related Outcome Measures_.
+
+This short course will make Structural Equation Modeling (SEM) accessible to students, faculty and other researchers across many disciplines, addressing issues unique to health and medicine. SEM is a multivariate technique that allows relationships among variables to be examined. SEM is often used in practice to model and test hypothesized causal relationships among observed and latent (unobserved) variables, including in analysis across time and groups. It can be viewed as the merging of a conceptual model, path diagram, confirmatory factor analysis and path analysis. In this short course we also discuss techniques that expand the capacity of SEM using a combination of continuous and categorical latent variables.
+
+Participants will experience a mixture of lecture and discussion. We will introduce basic concepts, theory and SEM vocabulary, give real-world examples, and conduct sample analyses using SEM software such as MPlus. While no knowledge of SEM is required, a fundamental understanding of regression analysis and experimental design is recommended for participants taking this course. We aim to give researchers the tools to apply SEM approaches to study complex relationships between clinical measurements, individual and community-level characteristics, and patient-reported scales.
+
+### About the Instructors
+
+Dr. Douglas Gunzler is a tenured Associate Professor of Medicine and Population and Quantitative Health Sciences in the Population Health Research Institute at the Center for Health Care Research and Policy, MetroHealth at Case Western Reserve University. He is an author of “Structural Equation Modeling for Health and Medicine” Chapman & Hall (expected publication date March 2021). He is a Biostatistician with specialties in structural equation modeling (SEM) and longitudinal data analysis. His research interests lie in the areas of mediation analysis, factor analysis, mixture modeling, psychometrics, age-period-cohort analysis and their application to both clinical trials and observational studies in health and medicine. In his research, he is using SEM for analysis of overlapping symptoms in co-occurring conditions. Dr. Gunzler received his PhD from the Department of Biostatistics & Computational Biology at the University of Rochester in 2011. He is the program chair 2021 for the Mental Health Statistics Section.
+
+Dr. Adam Perzynski is a tenured Associate Professor of Medicine and Sociology in the Center for Health Care Research and Policy at MetroHealth and Case Western Reserve University. He is an author of “Structural Equation Modeling for Health and Medicine” Chapman & Hall (expected publication date March 2021). He is also the Founding Director of the Patient Centered Media Lab. His doctoral degree is in sociology and his current research interests include: novel strategies to eliminate health disparities, outcomes measurement over the life course and research methods. His methodologic expertise spans the continuum from focus groups and ethnography to psychometrics and structural equation modeling. His publications span many disciplines and stand out against the backdrop of a career long effort to infuse the study of biomedical scientific problems with the knowledge, theories and methods of social science.
+
+Dr. Adam C. Carle is a clinically and quantitatively trained investigator. He is an author of “Structural Equation Modeling for Health and Medicine” Chapman & Hall (expected publication date March 2021). He is nationally recognized as an expert in pediatric patient reported outcomes and measurement. He uses structural equation models (SEM), multilevel models (MLM), and contemporary test theory (e.g., item response theory: IRT) to advance the methodological science used to measure health and health related outcomes from the family and child’s perspective, investigate the correlates of children and their families’ well-being, and investigate and eliminate health disparities. Additionally, his work seeks to better understand individual and contextual variables’ influences on health and health disparities at individual, local, system, state, and national levels. He is a PI, Co-PI, or Co-I on numerous Federal grants and has served as a reviewer for Federal granting agencies and national foundations. He has published over 80 peer reviewed manuscripts. 
+
+
+### Registration
+
+To offset the cost to the Chapter, we are charging a small fee for the short course.
+
+|  Group |  Fee |
+|---|---|
+| General | $40   |
+| Montana Chapter Members | $25 |
+| Students  | Free!  |
+
+Click [here](https://www.eventbrite.com/e/structural-equation-modeling-short-course-tickets-171663218307) to register for the short course. The deadline to register is October 7.
+
+There is no charge to attend Dr. Nandi's invited talk or the business meeting.
+
+
+
+# Join Information
+
+We will use [Zoom](https://zoom.us/) to conduct our annual meeting. The link to join for the general meeting (2:45-4:30pm) will be posted here prior to the meeting.
+
+A separate link for the short course (9:45am-2:30pm) will be emailed to registered participants.
