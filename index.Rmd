@@ -66,6 +66,26 @@ Click [here](https://www.eventbrite.com/e/structural-equation-modeling-short-cou
 There is no charge to attend Dr. Nandi's invited talk or the business meeting.
 
 
+# Invited Speaker
+
+Dr. Shinjini Nandi, Assistant Professor of Statistics at Montana State University, will be giving our annual meeting's invited talk, titled *Controlling the False Discovery Rate in Complex Structures of Multiple Hypotheses*.
+
+### Abstract
+
+Multiple hypotheses testing is widely recognized as an important statistical tool in 
+decision making. The scope of decision making by such procedures is not limited to the 
+classical setting of a single family of hypotheses, but is rapidly extending to a variety of 
+problems arising from financial experiments, genetic studies, imaging data, etc. With the 
+advancement of data collection and storage facilities, hypotheses can be realized in 
+multiple families, and/or in an infinite stream over time. Such structural information about 
+a set of hypotheses can become quite complex, at the same time, highly relevant to the 
+scientific investigation in question. Modern multiple testing procedures that incorporate 
+such structural information are considerably more accurate than their classical 
+counterparts.  In this talk, I will discuss some recent developments in the theory of 
+multiple hypotheses testing, applied to complex structures of hypotheses and aimed to 
+control the False Discovery Rate. The advantages of the new methods, over the existing 
+practices are explored through simulations and suitable real-life applications.
+
 
 # Join Information
 
