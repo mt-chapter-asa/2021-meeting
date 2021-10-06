@@ -21,9 +21,11 @@ library(tidyverse)
 pal <- brewer.pal(4, 'Pastel1')
 ```
 
-The 2021 annual meeting of the Montana ASA Chapter will be held virtually on **Friday, October 8, 2021** 9:45am-4:30pm. Members and non-members of the Chapter are welcome to attend!
+The 2021 annual meeting of the Montana ASA Chapter will be held virtually on **Friday, October 8, 2021**. Members and non-members of the Chapter are welcome to attend!
 
 # Schedule
+
+All times in Mountain Daylight Time (MDT).
 
 |   |   |
 |---|---|
@@ -89,6 +91,11 @@ practices are explored through simulations and suitable real-life applications.
 
 # Join Information
 
-We will use [Zoom](https://zoom.us/) to conduct our annual meeting. The link to join for the general meeting (2:45-4:30pm) will be posted here prior to the meeting.
+We will use [Zoom](https://zoom.us/) to conduct our annual meeting 2:30-4:30pm MDT. 
 
-A separate link for the short course (9:45am-2:30pm) will be emailed to registered participants.
+Register in advance for this meeting:
+[https://us06web.zoom.us/meeting/register/tZUsf-yhrzgrEtQ5o4A2e1Jqkj4lfhJ_BbUc](https://us06web.zoom.us/meeting/register/tZUsf-yhrzgrEtQ5o4A2e1Jqkj4lfhJ_BbUc)
+
+After registering, you will receive a confirmation email containing information about joining the meeting.
+
+A separate Zoom registration link for the short course (9:45am-2:30pm MDT) will be emailed to registered participants.
